@@ -1,0 +1,27 @@
+body {
+  padding: 0 3rem!important;
+}
+
+#viewSource,
+#viewExample,
+.source-pre {
+  display: none;
+}
+
+.title-desc {
+  min-height: 162px;
+}
+
+#carbonads {
+  margin-top: 0;
+}
+
+.bd-lead {
+  max-width: 100%;
+}
+
+@media (max-width: 991.98px) {
+  body {
+    padding: 0 !important;
+  }
+}
